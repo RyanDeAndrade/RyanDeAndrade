@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Ryan Andrade</h1>
 
-<!--
-**RyanDeAndrade/RyanDeAndrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanDeAndrade&show_icons=true&theme=dark&include_all_commits&hide_title=true&card_width=350)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDeAndrade&hide_progress=false&theme=dark&layout=compact&card_width=370)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" />
+<img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+<img align="left" width="35px" src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" />
+
+
