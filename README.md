@@ -2,7 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanDeAndrade&show_icons=true&theme=dark&include_all_commits&hide_title=true&card_width=350)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDeAndrade&hide_progress=false&theme=dark&layout=compact&card_width=370)
-
 ## 🛠 Tech Stack
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
 <img align="left" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
