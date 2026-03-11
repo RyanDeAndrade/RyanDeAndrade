@@ -30,6 +30,7 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
 
 </p>
 
@@ -39,6 +40,7 @@
 
 * Flutter
 * Dart
+* Vue.js
 * Desenvolvimento Mobile
 * .NET
 
