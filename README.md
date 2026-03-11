@@ -10,12 +10,33 @@
 
 ---
 
-## 🚀 Sobre mim
+# 🚀 Sobre mim
 
 * 💻 Desenvolvedor focado em **.NET e C#**
 * 📱 Estudando **Flutter e Dart**
 * 🌐 Aprendendo **Vue.js**
-* 📚 Sempre aprendendo novas tecnologias
+* 🎯 Sempre buscando evoluir como desenvolvedor
+
+---
+
+# 👨‍💻 Experiência Profissional
+
+**Desenvolvedor de Software**
+🏢 Abrem Tecnology
+
+* Atuação em desenvolvimento de sistemas
+* Projetos e soluções tecnológicas
+* Prestação de serviços para a **Secretaria de Educação do Estado do Maranhão**
+
+---
+
+# 🎓 Formação Acadêmica
+
+**Análise e Desenvolvimento de Sistemas**
+Faculdade do Maranhão (**FACAM**)
+
+**Pós-Graduação em Engenharia de Software**
+Faculdade **Focus**
 
 ---
 
