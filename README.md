@@ -24,9 +24,8 @@
 **Desenvolvedor de Software**
 🏢 Abrem Tecnology
 
-* Atuação em desenvolvimento de sistemas
-* Projetos e soluções tecnológicas
-* Prestação de serviços para a **Secretaria de Educação do Estado do Maranhão**
+* Desenvolvimento de sistemas e soluções tecnológicas
+* Atuação em projetos que prestam serviços para a **Secretaria de Educação do Estado do Maranhão**
 
 ---
 
@@ -79,7 +78,7 @@ Faculdade **Focus**
 
 ---
 
-# 🌎 Redes
+# 🌎 Contato
 
 <p align="center">
 
@@ -89,6 +88,14 @@ Faculdade **Focus**
 
 <a href="https://www.linkedin.com/in/ryan-andrade-08241626a/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="mailto:rr976790@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://discord.com/users/435973048148164611">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 </a>
 
 </p>
