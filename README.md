@@ -12,8 +12,8 @@
 
 # 🚀 Sobre mim
 
-* 💻 Desenvolvedor focado em **.NET e C#**
-* 📱 Estudando **Flutter e Dart**
+* 💻 Desenvolvedor focado em **Flutter e Dart**
+* 📱 Estudando **.NET e C#**
 * 🌐 Aprendendo **Vue.js**
 * 🎯 Sempre buscando evoluir como desenvolvedor
 
