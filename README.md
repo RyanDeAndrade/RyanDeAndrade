@@ -1,51 +1,78 @@
-<h1 align="center">👋 Olá, eu sou Ryan Andrade</h1>
+<h1 align="center">👋 Hello, I'm Ryan Andrade</h1>
 
 <p align="center">
-💻 Desenvolvedor | 🚀 Aprendendo novas tecnologias | 🎯 Focado em evolução
+💻 Software Developer | 🚀 Always Learning | 🌎 Building My International Career
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=600&lines=Desenvolvedor+de+Software;C%23+%7C+.NET+%7C+Flutter;Vue.js+Developer;Sempre+aprendendo+coisas+novas" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=650&lines=Software+Developer;C%23+%7C+.NET+Developer;Flutter+%7C+Dart+Developer;Vue.js+Developer;Cybersecurity+Student;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-# 🚀 Sobre mim
+# 🚀 About Me
 
-* 💻 Desenvolvedor focado em **Flutter e Dart**
-* 📱 Estudando **.NET e C#**
-* 🌐 Aprendendo **Vue.js**
-* 🎯 Sempre buscando evoluir como desenvolvedor
-
----
-
-# 👨‍💻 Experiência Profissional
-
-**Desenvolvedor de Software**
-🏢 Abrem Tecnology
-
-* Desenvolvimento de sistemas e soluções tecnológicas
-* Atuação em projetos que prestam serviços para a **Secretaria de Educação do Estado do Maranhão**
+* 💻 Software Developer passionate about technology and problem solving
+* 📱 Experienced with **Flutter and Dart** for mobile development
+* 🌐 Developing skills with **Vue.js and Front-end technologies**
+* ⚙️ Improving my knowledge in **C# and .NET ecosystem**
+* 🔐 Currently studying **Cybersecurity**
+* 🎯 Focused on continuous growth and building high-quality software
+* 🌎 Preparing myself for opportunities in the international technology market
 
 ---
 
-# 🎓 Formação Acadêmica
+# 👨‍💻 Professional Experience
 
-**Análise e Desenvolvimento de Sistemas**
-Faculdade do Maranhão (**FACAM**)
+## Software Developer  
+🏢 **Abrem Technology**
 
-**Pós-Graduação em Engenharia de Software**
-Faculdade **Focus**
+* Development of software solutions and digital systems
+* Working on projects that provide technology services for the **Maranhão State Department of Education**
+* Experience building and maintaining applications focused on real-world business needs
+* Collaboration in software development processes and project improvements
 
 ---
 
-# 📊 Estatísticas
+# 🎓 Education
+
+## Bachelor Degree - Systems Analysis and Development (ADS)
+🏫 **Faculdade do Maranhão (FACAM)**
+
+## Postgraduate Degree - Software Engineering
+🏫 **Faculdade Focus**
+
+## Postgraduate Studies - Cybersecurity
+🔐 Currently studying cybersecurity concepts, security practices and technologies
+
+---
+
+# 🛠 Technologies & Skills
+
+<p align="center">
+
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+
+</p>
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RyanDeAndrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDeAndrade&layout=compact&langs_count=7&theme=dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDeAndrade&layout=compact&langs_count=8&theme=dark"/>
 
 </p>
 
@@ -61,24 +88,17 @@ Faculdade **Focus**
 
 ---
 
-# 🛠 Tecnologias
+# 📚 Currently Learning
 
-<p align="center">
-
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-
-</p>
+* 🔐 Cybersecurity fundamentals
+* ☁️ Cloud technologies
+* ⚙️ Advanced C# and .NET development
+* 🚀 Software architecture and best practices
+* 🌎 English improvement for international opportunities
 
 ---
 
-# 🌎 Contato
+# 🌎 Connect With Me
 
 <p align="center">
 
@@ -102,7 +122,7 @@ Faculdade **Focus**
 
 ---
 
-# 🐍 Contribuições
+# 🐍 Contribution Snake
 
 <p align="center">
 
