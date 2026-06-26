@@ -1,72 +1,112 @@
-<h1 align="center">👋 Hello, I'm Ryan Andrade</h1>
+<h1 align="center">👋 Hi, I'm Ryan Andrade</h1>
 
 <p align="center">
-💻 Software Developer | 🚀 Always Learning | 🌎 Building My International Career
+Software Developer | Flutter • Vue.js • C# • .NET | Cybersecurity Enthusiast
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=650&lines=Software+Developer;C%23+%7C+.NET+Developer;Flutter+%7C+Dart+Developer;Vue.js+Developer;Cybersecurity+Student;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Software+Developer;Flutter+%7C+Dart+Developer;Vue.js+Frontend+Developer;C%23+%7C+.NET+Developer;Cybersecurity+Student;Building+Real+World+Solutions" />
 </p>
 
 ---
 
 # 🚀 About Me
 
-* 💻 Software Developer passionate about technology and problem solving
-* 📱 Experienced with **Flutter and Dart** for mobile development
-* 🌐 Developing skills with **Vue.js and Front-end technologies**
-* ⚙️ Improving my knowledge in **C# and .NET ecosystem**
-* 🔐 Currently studying **Cybersecurity**
-* 🎯 Focused on continuous growth and building high-quality software
-* 🌎 Preparing myself for opportunities in the international technology market
+I'm a Software Developer focused on building modern applications and improving my skills in software engineering.
+
+💻 Experience developing software solutions using modern technologies  
+📱 Mobile development with **Flutter and Dart**  
+🌐 Front-end development with **Vue.js**  
+⚙️ Backend development with **C# and .NET**  
+🔐 Currently studying **Cybersecurity**  
+☁️ Interested in Cloud, Software Architecture and Secure Development  
+
+My goal is to create efficient, scalable and secure software while continuously growing as a developer.
 
 ---
 
 # 👨‍💻 Professional Experience
 
-## Software Developer  
+## Software Developer
+
 🏢 **Abrem Technology**
 
-* Development of software solutions and digital systems
-* Working on projects that provide technology services for the **Maranhão State Department of Education**
-* Experience building and maintaining applications focused on real-world business needs
-* Collaboration in software development processes and project improvements
+- Development of software solutions and business systems
+- Working on projects that provide technology services for the **Maranhão State Department of Education**
+- Building and improving applications focused on real-world needs
+- Experience with software development workflows and problem solving
 
 ---
 
 # 🎓 Education
 
-## Bachelor Degree - Systems Analysis and Development (ADS)
-🏫 **Faculdade do Maranhão (FACAM)**
+🎓 **Systems Analysis and Development (ADS)**  
+Faculdade do Maranhão (FACAM)
 
-## Postgraduate Degree - Software Engineering
-🏫 **Faculdade Focus**
+🎓 **Postgraduate Degree in Software Engineering**  
+Faculdade Focus
 
-## Postgraduate Studies - Cybersecurity
-🔐 Currently studying cybersecurity concepts, security practices and technologies
+🔐 **Postgraduate Studies in Cybersecurity**  
+Currently studying security concepts, practices and technologies
 
 ---
 
-# 🛠 Technologies & Skills
+# 🚀 Featured Projects
+
+## 📱 Flutter Applications
+
+Mobile applications developed using:
+
+- Flutter
+- Dart
+- UI/UX principles
+- API integration
+
+---
+
+## 🌐 Web Systems
+
+Web applications developed with:
+
+- Vue.js
+- JavaScript / TypeScript
+- C#
+- .NET
+- Database integration
+
+---
+
+# 🛠 Tech Stack
 
 <p align="center">
 
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-<img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+# 📚 Currently Improving
+
+🚀 Advanced Flutter Development  
+⚙️ .NET Ecosystem  
+🔐 Cybersecurity Fundamentals  
+☁️ Cloud Technologies  
+🏗 Software Architecture  
+🌎 English for International Opportunities  
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -88,16 +128,6 @@
 
 ---
 
-# 📚 Currently Learning
-
-* 🔐 Cybersecurity fundamentals
-* ☁️ Cloud technologies
-* ⚙️ Advanced C# and .NET development
-* 🚀 Software architecture and best practices
-* 🌎 English improvement for international opportunities
-
----
-
 # 🌎 Connect With Me
 
 <p align="center">
@@ -111,11 +141,7 @@
 </a>
 
 <a href="mailto:rr976790@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<a href="https://discord.com/users/435973048148164611">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </p>
