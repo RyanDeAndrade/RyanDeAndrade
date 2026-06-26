@@ -12,16 +12,17 @@ Software Developer | Flutter • Vue.js • C# • .NET | Cybersecurity Enthusia
 
 # 🚀 About Me
 
-I'm a Software Developer focused on building modern applications and improving my skills in software engineering.
+I'm a Software Developer focused on creating modern and efficient applications.
 
-💻 Experience developing software solutions using modern technologies  
-📱 Mobile development with **Flutter and Dart**  
-🌐 Front-end development with **Vue.js**  
-⚙️ Backend development with **C# and .NET**  
-🔐 Currently studying **Cybersecurity**  
-☁️ Interested in Cloud, Software Architecture and Secure Development  
+💻 Experienced with C#, .NET, Flutter, Dart, Vue.js and JavaScript  
+📱 Mobile development with Flutter and Dart  
+🌐 Front-end development with Vue.js  
+⚙️ Backend development with C# and .NET  
+🔐 Currently pursuing a Postgraduate Degree in Cybersecurity  
+🎓 Postgraduate Degree in Software Engineering  
+🚀 Interested in Cloud, Secure Development and Software Architecture  
 
-My goal is to create efficient, scalable and secure software while continuously growing as a developer.
+I am constantly improving my skills and building solutions focused on quality, performance and security.
 
 ---
 
