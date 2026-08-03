@@ -195,12 +195,12 @@ The project is being developed as part of my professional portfolio, combining m
     <img
       width="70%"
       src="https://streak-stats.demolab.com?user=RyanDeAndrade&theme=github-dark-blue&hide_border=true"
-      alt="Ryan Andrade's contribution streak"
+      alt="Ryan Andrade's GitHub contribution streak"
     />
   </a>
 </p>
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
 <p align="center">
   <a href="https://github.com/RyanDeAndrade?tab=overview">
