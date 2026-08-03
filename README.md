@@ -170,67 +170,53 @@ The project is being developed as part of my professional portfolio, combining m
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=RyanDeAndrade&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"
-    alt="Ryan's GitHub statistics"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDeAndrade&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
-    alt="Ryan's most used languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=RyanDeAndrade&theme=github-dark-blue&hide_border=true"
-    alt="Ryan's GitHub contribution streak"
-  />
-</p>
-
----
-
-## 🤝 Connect With Me
+## 📊 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/RyanDeAndrade">
     <img
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-      alt="GitHub"
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api?username=RyanDeAndrade&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"
+      alt="Ryan Andrade's GitHub statistics"
     />
   </a>
 
-  <a href="https://www.linkedin.com/in/ryan-andrade-08241626a/">
+  <a href="https://github.com/RyanDeAndrade">
     <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:rr976790@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Email"
+      width="49%"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDeAndrade&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+      alt="Ryan Andrade's most used languages"
     />
   </a>
 </p>
 
----
+<p align="center">
+  <a href="https://github.com/RyanDeAndrade">
+    <img
+      width="70%"
+      src="https://streak-stats.demolab.com?user=RyanDeAndrade&theme=github-dark-blue&hide_border=true"
+      alt="Ryan Andrade's contribution streak"
+    />
+  </a>
+</p>
+
+### 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=RyanDeAndrade&color=00BFFF&style=flat-square&label=Profile+Views"
-    alt="Profile views"
-  />
+  <a href="https://github.com/RyanDeAndrade?tab=overview">
+    <img
+      width="100%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=RyanDeAndrade&bg_color=0d1117&color=58a6ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&custom_title=Ryan%20Andrade's%20Contribution%20Activity"
+      alt="Ryan Andrade's GitHub contribution activity"
+    />
+  </a>
 </p>
 
 <p align="center">
-  <em>Always learning, building and improving.</em>
+  <a href="https://github.com/RyanDeAndrade?tab=overview">
+    <img
+      src="https://img.shields.io/badge/View%20Complete%20Contribution%20History-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="View complete contribution history"
+    />
+  </a>
 </p>
