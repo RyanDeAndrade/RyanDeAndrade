@@ -1,164 +1,236 @@
-<h1 align="center">👋 Hi, I'm Ryan Andrade</h1>
+<h1 align="center">Hi, I'm Ryan Andrade 👋</h1>
+
+<h3 align="center">
+Software Developer | Flutter • Vue.js • C# • .NET
+</h3>
 
 <p align="center">
-Software Developer | Flutter • Vue.js • C# • .NET | Cybersecurity Enthusiast
+Building web and mobile applications with a growing focus on secure software development.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=28&center=true&vCenter=true&width=700&lines=Software+Developer;Flutter+%7C+Dart+Developer;Vue.js+Frontend+Developer;C%23+%7C+.NET+Developer;Cybersecurity+Student;Building+Real+World+Solutions" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com/?color=00D9FF&size=24&center=true&vCenter=true&width=700&lines=Software+Developer;Flutter+%26+Dart+Developer;Vue.js+Frontend+Developer;C%23+%26+.NET+Developer;Cybersecurity+Postgraduate+Student"
+    alt="Typing animation"
+  />
 </p>
 
 ---
 
-# 🚀 About Me
+## 👨‍💻 About Me
 
-I'm a Software Developer focused on creating modern and efficient applications.
+I'm a Brazilian Software Developer with experience building and maintaining web, mobile and business applications.
 
-💻 Experienced with C#, .NET, Flutter, Dart, Vue.js and JavaScript  
-📱 Mobile development with Flutter and Dart  
-🌐 Front-end development with Vue.js  
-⚙️ Backend development with C# and .NET  
-🔐 Currently pursuing a Postgraduate Degree in Cybersecurity  
-🎓 Postgraduate Degree in Software Engineering  
-🚀 Interested in Cloud, Secure Development and Software Architecture  
+My primary technologies are **Flutter, Dart, Vue.js, TypeScript, C# and .NET**. I also have professional experience working with legacy systems, relational databases, REST APIs and application modernization.
 
-I am constantly improving my skills and building solutions focused on quality, performance and security.
+I hold a degree in **Systems Analysis and Development**, a postgraduate degree in **Software Engineering**, and I am currently pursuing postgraduate studies in **Cybersecurity**.
 
----
+My long-term goal is to combine software engineering and cybersecurity to build reliable, scalable and secure applications.
 
-# 👨‍💻 Professional Experience
-
-## Software Developer
-
-🏢 **Abrem Technology**
-
-- Development of software solutions and business systems
-- Working on projects that provide technology services for the **Maranhão State Department of Education**
-- Building and improving applications focused on real-world needs
-- Experience with software development workflows and problem solving
+- 💻 Developing web and mobile applications
+- 📱 Building cross-platform applications with Flutter and Dart
+- 🌐 Creating responsive interfaces with Vue.js and TypeScript
+- ⚙️ Developing and maintaining solutions with C# and .NET
+- 🔄 Contributing to the modernization of legacy systems
+- 🔐 Studying cybersecurity and secure software development
+- ☁️ Expanding my knowledge of cloud technologies
+- 🌍 Improving my English for international opportunities
 
 ---
 
-# 🎓 Education
+## 💼 Professional Experience
 
-🎓 **Systems Analysis and Development (ADS)**  
-Faculdade do Maranhão (FACAM)
+### Software Developer — Abrem Technology
 
-🎓 **Postgraduate Degree in Software Engineering**  
-Faculdade Focus
+**January 2025 – Present**
 
-🔐 **Postgraduate Studies in Cybersecurity**  
-Currently studying security concepts, practices and technologies
-
----
-
-# 🚀 Featured Projects
-
-## 📱 Flutter Applications
-
-Mobile applications developed using:
-
-- Flutter
-- Dart
-- UI/UX principles
-- API integration
+- Develop and maintain web and mobile applications using Vue.js, JavaScript, TypeScript, C#, .NET, Flutter and Dart.
+- Contribute to systems delivered to public-sector organizations, including the Maranhão State Department of Education.
+- Build responsive interfaces and integrate applications with REST APIs.
+- Maintain existing business systems and implement new features.
+- Contribute to the modernization of legacy applications from Visual Basic to C#.
+- Work with relational databases, including data registration, updates and removal.
+- Collaborate with the development team using Git-based workflows and agile practices.
+- Investigate technical issues and implement solutions based on real business requirements.
 
 ---
 
-## 🌐 Web Systems
+## 🎓 Education
 
-Web applications developed with:
+### Postgraduate Studies in Cybersecurity
 
-- Vue.js
-- JavaScript / TypeScript
+**Faculdade Focus — In Progress**
+
+Developing knowledge in information security, risk management, secure development, infrastructure protection and cybersecurity practices.
+
+### Postgraduate Degree in Software Engineering
+
+**Faculdade Focus**
+
+Studies focused on software architecture, development processes, software quality and engineering best practices.
+
+### Degree in Systems Analysis and Development
+
+**Faculdade do Maranhão — FACAM**
+
+Academic background in systems development, programming, databases, software analysis and technology management.
+
+---
+
+## 🚀 Featured Project
+
+### 🛡️ SecureOps
+
+A DevSecOps dashboard designed to centralize security information and support the monitoring of vulnerabilities, audit logs, roles, permissions and access-control settings.
+
+The project is being developed as part of my professional portfolio, combining modern frontend development with cybersecurity concepts.
+
+**Main technologies:**
+
+- Vue 3
+- TypeScript
+- Tailwind CSS
+- Vite
 - C#
-- .NET
-- Database integration
+- ASP.NET Core
+- REST API
+
+**Planned and implemented features:**
+
+- Security overview dashboard
+- Vulnerability monitoring
+- Audit log visualization
+- Role and permission management
+- User access control
+- Security alerts and metrics
+- Responsive layout for desktop, tablet and mobile devices
+
+<p>
+  <a href="https://github.com/RyanDeAndrade/secureops">
+    <img
+      src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="SecureOps repository"
+    />
+  </a>
+</p>
+
+> SecureOps is currently under development. New features and documentation are being added progressively.
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+### Frontend
 
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
-<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,ts,vue,tailwind"
+    alt="Frontend technologies"
+  />
+</p>
 
+### Mobile Development
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=flutter,dart"
+    alt="Mobile development technologies"
+  />
+</p>
+
+### Backend
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=cs,dotnet,java"
+    alt="Backend technologies"
+  />
+</p>
+
+### Databases and Tools
+
+<p>
+  <img
+    src="https://skillicons.dev/icons?i=mysql,git,github,vscode,visualstudio,postman"
+    alt="Databases and development tools"
+  />
 </p>
 
 ---
 
-# 📚 Currently Improving
+## 📚 Currently Learning
 
-🚀 Advanced Flutter Development  
-⚙️ .NET Ecosystem  
-🔐 Cybersecurity Fundamentals  
-☁️ Cloud Technologies  
-🏗 Software Architecture  
-🌎 English for International Opportunities  
+- 🔐 Cybersecurity fundamentals
+- 🛡️ Secure software development
+- 🚀 Advanced Flutter development
+- ⚙️ ASP.NET Core and the .NET ecosystem
+- ☁️ Cloud computing fundamentals
+- 🏗️ Software architecture
+- 🌍 English for international opportunities
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Statistics
 
 <p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=RyanDeAndrade&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"
+    alt="Ryan's GitHub statistics"
+  />
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RyanDeAndrade&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDeAndrade&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+    alt="Ryan's most used languages"
+  />
+</p>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanDeAndrade&layout=compact&langs_count=8&theme=dark"/>
-
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=RyanDeAndrade&theme=github-dark-blue&hide_border=true"
+    alt="Ryan's GitHub contribution streak"
+  />
 </p>
 
 ---
 
-# 🔥 GitHub Streak
+## 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/RyanDeAndrade">
+    <img
+      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+      alt="GitHub"
+    />
+  </a>
 
-<img src="https://streak-stats.demolab.com?user=RyanDeAndrade&theme=dark&hide_border=true"/>
+  <a href="https://www.linkedin.com/in/ryan-andrade-08241626a/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
 
-</p>
-
----
-
-# 🌎 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/RyanDeAndrade">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-<a href="https://www.linkedin.com/in/ryan-andrade-08241626a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="mailto:rr976790@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-
+  <a href="mailto:rr976790@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+      alt="Email"
+    />
+  </a>
 </p>
 
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RyanDeAndrade&color=blue">
+  <img
+    src="https://komarev.com/ghpvc/?username=RyanDeAndrade&color=00BFFF&style=flat-square&label=Profile+Views"
+    alt="Profile views"
+  />
+</p>
+
+<p align="center">
+  <em>Always learning, building and improving.</em>
 </p>
